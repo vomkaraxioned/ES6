@@ -8,3 +8,5 @@ function printMsg(arr,msg) {
 }
 
 printMsg `jack ${a} 2022`;
+
+/* use backticks for interpolation */
